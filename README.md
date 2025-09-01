@@ -17,11 +17,7 @@ I'm a passionate frontend developer with expertise in building modern, responsiv
 - REST APIs • GraphQL • Jest • Cypress
 - Responsive Design • Web Performance Optimization
 
-## 📈 GitHub Stats
 
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=OgbaPeter&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OgbaPeter&layout=compact&hide_border=true&theme=radical)
 
 ## 🌱 Currently Learning
 
